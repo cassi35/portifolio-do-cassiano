@@ -10,3 +10,14 @@
  <li>projetos</li>
  <li>footer</li>
 </ol>
+
+# sites de inspiracao
+<ol>
+    <li> 
+        <a>https://brunoq.design/?ref=onepagelove</a>
+    </li>
+        <li> 
+        <a>https://brunoq.design/?ref=onepagelove</a>
+    </li>
+
+</ol>
